@@ -110,3 +110,5 @@ Odpowiada za wszystkie operacje związane z substancjami na panelu interakcji:
 - Przenoszenie
 - Łączenie (sprawdzanie możliwości reakcji, walidacja danych z bazą, rekombinacja elementów)
 - Usuwanie
+
+ ![alt text](./preview_images/Flow_white.jpg) 
