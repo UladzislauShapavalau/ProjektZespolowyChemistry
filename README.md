@@ -32,7 +32,7 @@ Motywacja uproszczenia: celem panelu było pokazanie możliwości wyświetlenia 
 ![alt text](./preview_images/2.gif)
 
 ### 3. Tworzenie nowych substancji poprzez przeciąganie jednej substancji na drugą:
-![alt text](./preview_images/2.gif)
+![alt text](./preview_images/3.gif)
 
 ### 4. Zapisywanie substancji na bocznym panelu w celu przyspieszenia tworzenia bardziej złożonych nowych substancji:
 ![alt text](./preview_images/4.gif)
