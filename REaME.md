@@ -91,7 +91,7 @@ Reprezentacja chemicznej substancji na panelu interakcji. Jest głównym element
 ### DraggableCompoundElement
 Reprezentacja elementu chemicznej substancji na panelu interakcji. Jest wizualizacją chemicznego elementu i składową częścią chemicznej substancji.
 
-## Менеджеры:
+## Managers:
 ### EntryPoint
 Jest to punkt wejścia do aplikacji. Odpowiada za inicjalizację aplikacji podczas uruchomienia oraz rozpoczęcie głównego cyklu życia aplikacji.
 ### MainManager
